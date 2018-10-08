@@ -23,7 +23,7 @@ No special apps, you might use daily-use one.
 
 - Remember the stone monuments by our ancestors. Find out the historic records of  the natural disaster damages in your town. It may be 100+ old and people forgotten them. Do not repeat tragic accidents.
 
-[![IDAS - block diagram](doc/source/block-diagram-v01.png)](https://raw.githubusercontent.com/nikosun/mbed-advent2014/gh-pages/doc/source/block-diagram-v01.png)
+[![IDAS - block diagram](doc/source/images/block-diagram-v01.png)](https://raw.githubusercontent.com/nikosun/IDAS-CallforCode/gh-pages/doc/source/block-diagram-v01.png)
 
 ## Notes with numbers on the block diagram
 
