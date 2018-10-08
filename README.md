@@ -23,7 +23,7 @@ No special apps, you might use daily-use one.
 
 - Remember the stone monuments by our ancestors. Find out the historic records of  the natural disaster damages in your town. It may be 100+ old and people forgotten them. Do not repeat tragic accidents.
 
-[![IDAS - block diagram](doc/source/images/block-diagram-v01.png)](https://raw.githubusercontent.com/nikosun/IDAS-CallforCode/gh-pages/doc/source/block-diagram-v01.png)
+[![IDAS - block diagram](doc/source/images/block-diagram-v01.png)](https://raw.githubusercontent.com/nikosun/IDAS-CallforCode/master/doc/source/images/block-diagram-v01.png)
 
 ## Notes with numbers on the block diagram
 
@@ -53,7 +53,7 @@ No special apps, you might use daily-use one.
     - Let people act, over “**Normarcy bias**” and “**Behavioural sciences**”
     - Good communication with local people in peacetime is important.
 
-## IoT Hardware (No.1, 2)
+## IoT Hardware (No.1, 2 on Picture)
 ### Child Units
 - Soil moisture (agriculture / gardening) \*1
 - Temperature, Humidity, Air pressure and Sun light.
@@ -71,7 +71,7 @@ Note: (*1,*2 some are Patent-ready) Soil moisture sensors and Anemometer are key
 The prototypes with innovative design have been tested, for Durability, Cost, Low-power and Ecology.
 The details are not shown on this infographic.
 
-## City Office Operations and Actions (No.6, 7) 
+## City Office Operations and Actions (No.6, 7 on Picture) 
 - Local information (**Peacetime**)
     - Hazard spots/area by local investigation
     - Ground surface data, such as Water level, Road construction, …etc.
