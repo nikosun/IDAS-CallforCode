@@ -21,17 +21,17 @@ No special apps, you might use daily-use one.
 
 - It is harder to get budget for disasters preparedness than the actual problems (such as refugees shelter/food). Integration with the things currently happening or daily life/production is one of our presentation ideas.
 
-- Remember the stone monuments by our ancestors. Find out the historic records of  the natural disaster damages in your town. It may be 100+ old and people forgotten them. Do not repeat tragic accidents.
+- Remember the stone monuments by our ancestors. Find out the historic records of the natural disaster damages in your town. It may be 100+ year-old and people forgotten them. Do not repeat tragic accidents.
 
 [![IDAS - block diagram](doc/source/images/block-diagram-v01.png)](https://raw.githubusercontent.com/nikosun/IDAS-CallforCode/master/doc/source/images/block-diagram-v01.png)
 
 ## Notes with numbers on the block diagram
 
-1. Child -> Master (Data collection/ 2-100 child units)
+1. Child Units -> Master Unit (Data collection/ 2-100 child units)
     - Carrier: LoraWAN
     - Format: MQTT
 
-2. Master -> Cloud (Internet connection)
+2. Master Unit -> Cloud (Internet connection)
     - Carrier: Ethernet, Wifi, Telecom …etc.
     - Format: Secured IoT-Cloud transmission
 
@@ -67,7 +67,7 @@ No special apps, you might use daily-use one.
 - Water level gauge
 - AC or Solar power operations
 
-Note: (*1,*2 some are Patent-ready) Soil moisture sensors and Anemometer are key devices for this IoT system.
+**Note:** (*1,*2 some are Patent-ready) Soil moisture sensors and Anemometer are key devices for this IoT system.
 The prototypes with innovative design have been tested, for Durability, Cost, Low-power and Ecology.
 The details are not shown on this infographic.
 
@@ -75,17 +75,25 @@ The details are not shown on this infographic.
 - Local information (**Peacetime**)
     - Hazard spots/area by local investigation
     - Ground surface data, such as Water level, Road construction, …etc.
-    - Torrential rains, River streamflow control info. 
+    - Info. for Agricultre, Gardening and other activities/productions
     - Local daily information, to be familiarized with
     - Colorized layer on local map with simple user interface
-- Predictions and Alert (**Emergency**)
-    - Flood/Landslide prediction
+- Prediction, Alert and Evacuation (**Emergency**)
+    - Flood/Landslide local data
     - Evacuation Center/Shelter map
+    - Torrential rains, River streamflow control info. 
     - Water/Food rescue information
 
 ---
 
 ## Code for the solusions
+
+Code will be added more..
+
+### IBM Code references
+- [**IBM Developer - IoT**](https://developer.ibm.com/technologies/iot/)
+- [**The Weather Company API Platform (Call for Code)**](https://callforcode.weather.com/)
+- [**Node-RED nodes for IBM Watson**](https://flows.nodered.org/node/node-red-node-watson)
 
 ---
 
