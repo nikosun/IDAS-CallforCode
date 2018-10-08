@@ -4,7 +4,7 @@
 
 ### Our team and basic stance
 
-Currently, our team members are 2 persons. </br>We just met at "IBM Call for Code hackathon" in Tokyo on 15-Sep-2018.
+Currently, our team members are 2 persons. We just met at "IBM Call for Code hackathon" in Tokyo on 15-Sep-2018.</br>
 Our team is made up of a designer/engineer of IBM champion 2018, and a disaster researcher/official in disaster prevention department of the local government. 
  </br>Call for Code is the serious life-saving project. Our team is trying to find the total solution and concrete ideas. That is our basic stance. We would like to show our solution model, before code.
 
