@@ -5,23 +5,23 @@
 ### Our team and basic stance
 
 Currently, our team members are 2 persons. We just met at "IBM Call for Code hackathon" in Tokyo on 15-Sep-2018.</br>
-Our team is made up of a designer/engineer of IBM champion 2018, and a disaster researcher/official in disaster prevention department of the local government. 
- </br>Call for Code is the serious life-saving project. Our team is trying to find the total solution and concrete ideas. That is our basic stance. We would like to show our solution model, before code.
+Our team is made up of a designer/engineer of IBM champion 2018, and a disaster researcher/official in disaster prevention department of the local government.</br>
+Call for Code is the serious life-saving project. Our team is trying to find the total solution and concrete ideas. That is our basic stance. We would like to show our solution model, before code.
 
 ## Save Your Life: IDAS background - Important lessons from the past experiences
 
 - For evacuation, you won’t try to find another new apps under the emergency alerts.
 No special apps, you might use daily-use one.
 
-- Since the alerts can’t reach to your local people sometimes, the city office needs to devise the other creative solutions to communicate them.
+- Since the alerts can’t reach to your local people sometimes, the city office needs to devise the other creative solutions to communicate well with them.
 
 - The “AI” is the great helper for us to make right decision. But you and your family should be saved by you! Your action helps yourself, machines does not.
 
 - The local investigation and raw data are very important. Global forecast analytics doesn’t tell actual ground conditions or danger. That is the important task for the local city office.
 
-- It is harder to get budget for disasters preparedness than the actual problems (such as refugees shelter/food). Integration with the things currently happening or daily life/production is one of our presentation ideas.
+- It is harder to get big budget for disasters preparedness than the actual problems (such as refugees shelter/food). Integration with the current happenings or daily life/production is one of our total solution ideas.
 
-- Remember the stone monuments by our ancestors. Find out the historic records of the natural disaster damages in your town. It may be 100+ year-old and people forgotten them. Do not repeat tragic accidents.
+- Remember the monuments by our ancestors. Find out the historical records of the natural disaster damages in your town. The past records may be 100+ year-old and people forgot them. Do not repeat tragic accidents.
 
 [![IDAS - block diagram](doc/source/images/block-diagram-v01.png)](https://raw.githubusercontent.com/nikosun/IDAS-CallforCode/master/doc/source/images/block-diagram-v01.png)
 
@@ -78,21 +78,28 @@ The details are not shown on this infographic.
     - Info. for Agricultre, Gardening and other activities/productions
     - Local daily information, to be familiarized with
     - Colorized layer on local map with simple user interface
-- Prediction, Alert and Evacuation (**Emergency**)
+- Preparedness, Alert and Evacuation (**Emergency**)
     - Flood/Landslide local data
-    - Evacuation Center/Shelter map
-    - Torrential rains, River streamflow control info. 
-    - Water/Food rescue information
+    - Evacuation Center/Shelter route map
+    - Torrential rains, River streamflow info. 
+    - Water/Food rescue info.
 
 ---
 
-## Code for the solusions
+## Code for the solutions
 
-Code will be added more..
+Code will be added more.. </br>
+Our total solution cares from physical silicon devices to Web UI. Such a big project and long way...
+- IoT, Hardware embedded program (Arm/Mbed/Pelion), MQTT
+- Cloud Container Kubernetes(K8s) storage
+- Node-RED and Watson AI connection/customization
+- The Weather Company API and Mapbox mapping
+- Web UI and Layered customization for city offices
 
 ### IBM Code references
 - [**IBM Developer - IoT**](https://developer.ibm.com/technologies/iot/)
 - [**The Weather Company API Platform (Call for Code)**](https://callforcode.weather.com/)
+- [**IBM Cloud Kubernetes Service (K8s)**](https://www.ibm.com/cloud/container-service)
 - [**Node-RED nodes for IBM Watson**](https://flows.nodered.org/node/node-red-node-watson)
 
 ---
