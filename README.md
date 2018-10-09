@@ -22,7 +22,7 @@ Call for Code is the serious life-saving project. Our team is trying to find the
 
 - Remember the monuments by our ancestors. Find out the historical records of the natural disaster damages. The past records may be 100+ year-old and people forgot them. Do not repeat tragedy. [Ref1:NYT](https://www.nytimes.com/2011/04/21/world/asia/21stones.html), [Ref2:JpGov,300+ Stones](http://www.thr.mlit.go.jp/road/sekihijouhou/gaiyou.pdf)
 
-[![IDAS - block diagram](doc/source/images/block-diagram-v01.png)](https://raw.githubusercontent.com/nikosun/IDAS-CallforCode/master/doc/source/images/block-diagram-v01.png)
+[![IDAS - block diagram](doc/source/images/block-diagram-v02.png)](https://raw.githubusercontent.com/nikosun/IDAS-CallforCode/master/doc/source/images/block-diagram-v02.png)
 
 ## Notes with numbers on the block diagram
 
