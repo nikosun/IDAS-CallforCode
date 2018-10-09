@@ -71,16 +71,16 @@ Call for Code is the serious life-saving project. Our team is trying to find the
 
 ## City Office Operations and Actions (No.6, 7 on Picture) 
 ### Local information <*Peacetime*>
-    - Hazard spots/area by local investigation
-    - Ground surface data, such as Water level, Road construction, …etc.
-    - Info. for Agricultre, Gardening and other activities/productions
-    - Local daily information, to be familiarized with
-    - Colorized layer on local map with simple user interface
+- Hazard spots/area by local investigation
+- Ground surface data, such as Water level, Road construction, …etc.
+- Info. for Agricultre, Gardening and other activities/productions
+- Local daily information, to be familiarized with
+- Colorized layer on local map with simple user interface
 ### Preparedness, Alert and Evacuation <*Emergency*>
-    - Flood/Landslide local data
-    - Evacuation Center/Shelter route map
-    - Torrential rains, River streamflow info. 
-    - Water/Food rescue info.
+- Flood/Landslide local data
+- Evacuation Center/Shelter route map
+- Torrential rains, River streamflow info. 
+- Water/Food rescue info.
 
 ---
 
