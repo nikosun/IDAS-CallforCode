@@ -20,7 +20,7 @@ Call for Code is the serious life-saving project. Our team is trying to find the
 
 - It is harder to get the big budget for disasters preparedness than the actual problems (such as refugees shelter/food). Integration with the current happenings or daily life/production is one of our total solution ideas.
 
-- Remember the monuments by our ancestors. Find out the historical records of the natural disaster damages. The past records may be 100+ year-old and people forgot them. Do not repeat tragedy. [Ref1:NYT](https://www.nytimes.com/2011/04/21/world/asia/21stones.html), [Ref2:JpGov,300+ Stones](http://www.thr.mlit.go.jp/road/sekihijouhou/gaiyou.pdf)
+- Remember the monuments by our ancestors. Find out the historical records of the natural disasters. The past records may be 100+ year-old and people forgot them. Do not repeat tragedy. [Ref1:NYT](https://www.nytimes.com/2011/04/21/world/asia/21stones.html), [Ref2:JpGov, 300+ Stones](http://www.thr.mlit.go.jp/road/sekihijouhou/gaiyou.pdf)
 
 [![IDAS - Block Diagram](doc/source/images/block-diagram-v02.png)](https://raw.githubusercontent.com/nikosun/IDAS-CallforCode/master/doc/source/images/block-diagram-v02.png)
 
@@ -88,12 +88,12 @@ Call for Code is the serious life-saving project. Our team is trying to find the
 ## Code for the solutions
 
 Code will be added more.. </br>
-Our total solution cares from physical silicon devices to Web UI. Such a big project and long way...
+Our total solution cares from the physical silicon devices to Web UI. Such a big project and long way...
 - IoT, Hardware embedded program (Arm Mbed/Pelion), MQTT
 - Cloud Container Kubernetes(K8s) storage and Database
 - Node-RED and Watson AI connection/customization
 - The Weather Company API and Mapbox mapping
-- Customizable Web UI and Layered Info. for local governments
+- Customizable Web UI and Layered add-on Info. for local governments
 
 ### Code references
 - [**IBM Developer - IoT**](https://developer.ibm.com/technologies/iot/)
