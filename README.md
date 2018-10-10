@@ -18,11 +18,11 @@ Call for Code is the serious life-saving project. Our team is trying to find the
 
 - The local investigation and raw data are very important. Global forecast analytics doesn’t tell actual ground conditions or danger. That is the important task for the local government.
 
-- It is harder to get the big budget for disasters preparedness than the actual problems (such as refugees shelter/food). Integration with the current happenings or daily life/production is one of our total solution ideas.
+- It is harder to get the big budget for disasters preparedness than the present problems (such as refugees shelter/food). Integration with the current happenings or daily life/production is one of our total solution ideas.
 
-- Remember the monuments by our ancestors. Find out the historical records of the natural disasters. The past records may be 100+ year-old and people forgot them. Do not repeat tragedy. [Ref1:NYT](https://www.nytimes.com/2011/04/21/world/asia/21stones.html), [Ref2:JpGov, 300+ Stones](http://www.thr.mlit.go.jp/road/sekihijouhou/gaiyou.pdf)
+- Remember the monuments by our ancestors. Find out the historical records of natural disasters. The past records may be 100+ year-old and people forget them. Do not repeat tragedy. [Ref-NYT/Asia](https://www.nytimes.com/2011/04/21/world/asia/21stones.html), [Ref-JpGov/300 Stones](http://www.thr.mlit.go.jp/road/sekihijouhou/gaiyou.pdf)
 
-[![IDAS - Block Diagram](doc/source/images/block-diagram-v02.png)](https://raw.githubusercontent.com/nikosun/IDAS-CallforCode/master/doc/source/images/block-diagram-v02.png)
+[![IDAS - Block Diagram](doc/source/images/block-diagram-v03.png)](https://raw.githubusercontent.com/nikosun/IDAS-CallforCode/master/doc/source/images/block-diagram-v03.png)
 
 ## Numbers on the Block Diagram (not detailed)
 
@@ -103,6 +103,10 @@ Our total solution cares from the physical silicon devices to Web UI. Such a big
 - [**IBM Cloud Kubernetes Service (K8s)**](https://www.ibm.com/cloud/container-service)
 - [**Node-RED nodes for IBM Watson**](https://flows.nodered.org/node/node-red-node-watson)
 - [**Arm Mbed/Pelion bridge MQTT to Watson IoT (GitHub)**](https://github.com/ARMmbed/pelion-bridge-container-mqtt)
+
+---
+#### References
+- [Ref.1 Sendai Framework for Disaster Risk Reduction (EN), Preamble 14](https://www.unisdr.org/we/inform/publications/43291)
 
 ---
 
