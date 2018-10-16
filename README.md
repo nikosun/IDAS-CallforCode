@@ -1,11 +1,11 @@
 # IDAS - IoT Data Alert System (Call for Code)
-- **[Call for Code ORG by David Clark Cause](https://callforcode.org/)**
-- **[IBM developer - Call for Code program](https://developer.ibm.com/callforcode/)**
+- [**Call for Code ORG by David Clark Cause**](https://callforcode.org/)
+- [**IBM developer - Call for Code program**](https://developer.ibm.com/callforcode/)
 
 ### Our team and basic stance, before Code
 
-Currently, our team members are 2 persons. We just met at "IBM Call for Code hackathon" in Tokyo on 15-Sep-2018.</br>
-Our team is made up of a designer/engineer of IBM champion 2018, and a disaster researcher/official in disaster prevention department of the local government.</br>
+Currently, our team members are 2 persons. We just met at "IBM Call for Code hackathon" in Tokyo on 15-Sep-2018.<br>
+Our team is made up of a designer/engineer of IBM champion 2018, and a disaster researcher/official in disaster prevention department of the local government.<br>
 Call for Code is the serious life-saving project. Our team is trying to find the total solution and concrete ideas. That is our basic stance. We would like to show our solution model, before code.
 
 ## Save Your Life: IDAS background - Important lessons from the past experiences
@@ -16,7 +16,7 @@ Call for Code is the serious life-saving project. Our team is trying to find the
 
 - The “AI” is the great helper for us to make the right decision. But you and your family should be saved by you! Your action helps yourself, machines do not.
 
-- The local investigation and raw data are very important. Global forecast analytics doesn’t tell actual ground conditions or danger. That is the important task for the local government.
+- The local investigation and raw data are very important. Global forecast analytics by the weather satellites doesn’t tell actual ground conditions or danger. That is the important point.
 
 - It is harder to get the big budget for disasters preparedness than the present problems (such as refugees shelter/food). Integration with the current happenings or daily life/production is one of our total solution ideas.
 
@@ -50,7 +50,6 @@ Call for Code is the serious life-saving project. Our team is trying to find the
 
 7. **Preparedness** is the key to save your life from the natural disaster!
     - Let people act, over “**Normarcy bias**” and “**Behavioural sciences**”
-    - Good communication with local people in peacetime is important.
     - Education about local disaster risks and Training for disaster risk reduction
     
 ## IoT Hardware (No.1, 2 on Picture)
@@ -87,7 +86,10 @@ Call for Code is the serious life-saving project. Our team is trying to find the
 
 ## Code for the solutions
 
-Code will be added more.. </br>
+Code will be added more.. <br>
+- [**IDAS - Call for Code**](https://github.com/nikosun/IDAS-CallforCode/) (This repositry, Whole system/Block diagram)
+- [**IDAS - Call for Code - IoT Design**](https://github.com/nikosun/IDAS-CallforCode-IoT-Design/) (IoT/Hardware part)
+
 Our total solution cares from the physical silicon devices to Web UI. Such a big project and long way...
 - IoT, Hardware embedded program (Arm Mbed/Pelion), MQTT
 - Cloud Container Kubernetes(K8s) storage and Database
