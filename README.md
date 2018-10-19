@@ -55,14 +55,14 @@ Click to enlarge the Illustration
     - Education about local disaster risks and Training for disaster risk reduction
     
 ### IoT Hardware (No.1, 2 on Picture)
-#### Child Units
+#### •Child Units
 - Soil moisture (agriculture / gardening) \*1
 - Temperature, Humidity, Air pressure and Sun light.
 - Has unique ID (← using NFC hardware key code)
 - 3 AA-battery for 2 years with low-powered
 - No middle Smartphone
 
-#### Master Unit
+#### •Master Unit
 - All of Child Units functions
 - Anemometer (wind speed / direction) \*2
 - Water level gauge
@@ -111,7 +111,7 @@ Our total solution cares from the physical silicon devices to Web UI. Such a big
 ---
 #### References
 - [**Sendai Framework** for Disaster Risk Reduction (EN), Preamble 14 - UNISDR](https://www.unisdr.org/we/inform/publications/43291)
-- [**3.11 Great East Japan Earthquake Archive** - NHK(JP's National boradcasting like BBC)](https://www9.nhk.or.jp/archives/311shogen/en#content2)
+- [**3.11 Great East Japan Earthquake Archive** - NHK(JP's National broadcasting like BBC)](https://www9.nhk.or.jp/archives/311shogen/en#content2)
 
 ## License
 [Apache 2.0](LICENSE)
