@@ -20,11 +20,13 @@ Call for Code is the serious life-saving project. Our team is trying to find the
 
 - It is harder to get the big budget for disasters preparedness than the present problems (such as refugees shelter/food). Integration with the current happenings or daily life/production is one of our total solution ideas.
 
-- Remember the monuments by our ancestors. Find out the historical records of natural disasters. The past records may be 100+ year-old and people forget them. Do not repeat tragedy. [Ref-NYT/Asia](https://www.nytimes.com/2011/04/21/world/asia/21stones.html), [Ref-JpGov/300 Stones](http://www.thr.mlit.go.jp/road/sekihijouhou/gaiyou.pdf)
+- Remember the monuments by our ancestors. Find out the historical records of natural disasters. The past records may be 100+ year-old and people forget them. Do not repeat tragedy. [Ref-1:NYT/Asia](https://www.nytimes.com/2011/04/21/world/asia/21stones.html), [Ref-2:JpGov/300-Stone](http://www.thr.mlit.go.jp/road/sekihijouhou/gaiyou.pdf)
 
+## Block Diagram Simplified
+Click to enlarge the Illustration
 [![IDAS - Block Diagram](doc/source/images/block-diagram-v03.png)](https://raw.githubusercontent.com/nikosun/IDAS-CallforCode/master/doc/source/images/block-diagram-v03.png)
 
-## Numbers on the Block Diagram (not detailed)
+### Numbers on the Block Diagram (not detailed)
 
 1. Child Units -> Master Unit (LoRa/LoRaWAN Gateway)
     - Data Connection: Gateway collects 2 - 100+ child units data
@@ -52,31 +54,31 @@ Call for Code is the serious life-saving project. Our team is trying to find the
     - Let people act, over “**Normarcy bias**” and “**Behavioural sciences**”
     - Education about local disaster risks and Training for disaster risk reduction
     
-## IoT Hardware (No.1, 2 on Picture)
-### Child Units
+### IoT Hardware (No.1, 2 on Picture)
+#### Child Units
 - Soil moisture (agriculture / gardening) \*1
 - Temperature, Humidity, Air pressure and Sun light.
 - Has unique ID (← using NFC hardware key code)
 - 3 AA-battery for 2 years with low-powered
 - No middle Smartphone
 
-### Master Unit
+#### Master Unit
 - All of Child Units functions
 - Anemometer (wind speed / direction) \*2
 - Water level gauge
 - AC or Solar power operations
 
-**Note:** (*1,*2 some are Patent-ready) </br>
+**Note:** (*1,*2 some are Patent-ready) <br>
 *Soil moisture sensors and Anemometer are key devices for this IoT system. The prototypes with innovative design have been tested, for Durability, Cost, Low-power and Ecology. The details are not shown on this infographic.*
 
-## Local government Operations and Actions (No.6, 7 on Picture) 
-### Local information <*Peacetime*>
+### Local government Operations and Actions (No.6, 7 on Picture) 
+#### Local information <*Peacetime*>
 - Hazard spots/area by local investigation
 - Ground surface data, such as Water level, Road construction, …etc.
 - Info. for Agricultre, Gardening and other activities/productions
 - Local daily information, to be familiarized with
 - Colorized layer on local map with simple user interface
-### Preparedness, Alert and Evacuation <*Emergency*>
+#### Preparedness, Alert and Evacuation <*Emergency*>
 - Flood/Landslide local data
 - Evacuation Center/Shelter route map
 - Torrential rains, River streamflow info. 
@@ -86,8 +88,8 @@ Call for Code is the serious life-saving project. Our team is trying to find the
 
 ## Code for the solutions
 
-Code will be added more.. <br>
-- [**IDAS - Call for Code**](https://github.com/nikosun/IDAS-CallforCode/) (This repositry, Whole system/Block diagram)
+This page/repository is the head index. More details and codes will be on each part branch.
+- [**IDAS - Call for Code**](https://github.com/nikosun/IDAS-CallforCode/) (This repository, Whole system/Block diagram)
 - [**IDAS - Call for Code - IoT Design**](https://github.com/nikosun/IDAS-CallforCode-IoT-Design/) (IoT/Hardware part)
 
 Our total solution cares from the physical silicon devices to Web UI. Such a big project and long way...
@@ -108,9 +110,8 @@ Our total solution cares from the physical silicon devices to Web UI. Such a big
 
 ---
 #### References
-- [Ref.1 Sendai Framework for Disaster Risk Reduction (EN), Preamble 14](https://www.unisdr.org/we/inform/publications/43291)
-
----
+- [**Sendai Framework** for Disaster Risk Reduction (EN), Preamble 14 - UNISDR](https://www.unisdr.org/we/inform/publications/43291)
+- [**3.11 Great East Japan Earthquake Archive** - NHK(JP's National boradcasting like BBC)](https://www9.nhk.or.jp/archives/311shogen/en#content2)
 
 ## License
 [Apache 2.0](LICENSE)
