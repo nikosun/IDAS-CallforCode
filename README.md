@@ -24,7 +24,7 @@ Call for Code is the serious life-saving project. Our team is trying to find the
 
 ## Block Diagram Simplified
 Click to enlarge the Illustration
-[![IDAS - Block Diagram](doc/source/images/block-diagram-v03.png)](https://raw.githubusercontent.com/nikosun/IDAS-CallforCode/master/doc/source/images/block-diagram-v03.png)
+[![IDAS - Block Diagram](doc/source/images/block-diagram-v04.png)](https://raw.githubusercontent.com/nikosun/IDAS-CallforCode/master/doc/source/images/block-diagram-v04.png)
 
 ### Numbers on the Block Diagram (not detailed)
 
